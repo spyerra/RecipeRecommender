@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/RecipeRecommender/v15/Server/sqlite3
+/RecipeRecommender/bin/Debug
+/RecipeRecommender/obj/Debug
+/.vs/RecipeRecommender/v15/.suo
